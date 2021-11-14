@@ -21,3 +21,9 @@ Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
+
+.idea
+.github
+CODE_OF_CONDUCT.md
+LICENSE
+.env.example
